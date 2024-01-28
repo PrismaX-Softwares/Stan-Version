@@ -1,1 +1,1 @@
-# Stan-Version
+1.0
